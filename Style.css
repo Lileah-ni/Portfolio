@@ -199,8 +199,8 @@ a button {
       
 /*hero img btn*/
 button a {
-        position: absolute;
-        left: 100px;
+/*         position: absolute;
+ */        left: 100px;
         bottom: -80px;
         border: none;
         color: #FFFFFF;
