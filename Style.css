@@ -363,6 +363,7 @@ button a {
    }
 
    .portfolio-body {
+    margin-top: 800px;
       width: 100%;
       height: 100%;
       background-color: none;
@@ -388,6 +389,7 @@ button a {
 
     p {
         color: #3D3838;
+
     }
 
 
@@ -395,7 +397,6 @@ button a {
 
 
 #grid-img img {
-
      width: 700px;
      height: 450px;
 
@@ -409,6 +410,9 @@ button a {
     --gr-6: span 6;
   }
   
+
+
+  
   @media screen and (max-width: 960px) {
     :root {
       --gr-6: span 12;
@@ -418,7 +422,7 @@ button a {
   /*  */
   
   #grid-img {
-    margin-top: 300px;
+    margin-top: -550px;
     width: 100%;
     min-height: 720px;
     padding: 2rem;
